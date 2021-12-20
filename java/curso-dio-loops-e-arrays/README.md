@@ -5,6 +5,7 @@ Bora estudar? 🤗
 
 <a href ="https://github.com/Ruths2/Java/tree/main/java/curso-dio-loops-e-arrays/exercicios/exercicios-loop">• Exercícios loops.</a><br>
 <a href ="https://github.com/Ruths2/Java/tree/main/java/curso-dio-loops-e-arrays/exercicios/exercicios-array">• Exercícios arrays.</a><br>
+<a href ="https://github.com/Ruths2/Java/tree/main/java/codigos-testes-java">• Mais exercícios 📝</a><br>
 #
 
 ## ➿ Estrutura de repetições (loops)
