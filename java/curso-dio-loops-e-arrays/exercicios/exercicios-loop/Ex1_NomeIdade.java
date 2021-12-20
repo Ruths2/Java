@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Exercícios curso: DIO-Estruturas de Repetição.
+//Exercícios curso: DIO-Estruturas de Repetição e Arrays em java.
 
 /*
  Faça um programa que leia conjuntos de dois valores,
