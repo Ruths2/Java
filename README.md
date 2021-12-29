@@ -7,10 +7,11 @@
 ## ✨ Aprendendo java ☕ ✨
 
 ---
+[ `🟡 A história do Java 🌹` ](https://github.com/Ruths2/Java/tree/main/java/historia-da-linguagem-java)
 
 [ `🔴 Loops e Arrays 🌸` ](https://github.com/Ruths2/Java/tree/main/java/curso-dio-loops-e-arrays)
 
-[ `🟣 POO (Programação Orientada a Objeto) 🌼` ]( )
+[ `🟣 POO (Programação Orientada a Objeto) 🌼` ](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO)
 
 
 ###### 🚧 ... em construção ... 🚧
