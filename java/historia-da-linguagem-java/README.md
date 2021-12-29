@@ -18,7 +18,11 @@ Em 1994, o físico Tim Beners-Lee, criador da World Wide Web (famoso www, inicia
 
 ---
 
-Autor:
+Autor: Ruth ✨
 
 By: Curso em vídeo, Mestre Guanabara ✨
 
+<div align= "center" >
+
+[⬅️ Retornar a página inicial 📃](https://github.com/Ruths2/Java/tree/main/java)
+</div>
