@@ -40,5 +40,5 @@ Bora estudar? 🤗
 
 <div align= "center" >
 
-[⬅️ Retornar a página inicial 📃](https://github.com/Ruths2/Java/tree/main/java)
+[⬅️ Retornar a página inicial 📃](https://github.com/Ruths2/Java)
 </div>
