@@ -54,7 +54,7 @@ FimClasse
 ```
 Eu criei um programinha reescrevendo o código a cima em Java.🤗
 
-[Programinha 💫](https://github.com/Ruths2/Java/curso-em-video-POO/poo/projeto-objeto-poo)
+[Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo)
 
 ---
 
