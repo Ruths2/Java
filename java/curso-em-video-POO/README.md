@@ -30,9 +30,12 @@ Abaixo um exemplo de uma classe, objeto e seus conceitos citados acima:
 
 Classe Veículo
 
-   Marca: Toyota
-   Tipo: Caminhonete
-   Modelo: Hilux cabine simples
+   marca: Caractere
+   tipo: Caractere
+   cor: Caractere
+   modelo: Real
+   quantidade: Inteiro
+   chaveNaMao: Logico
 
    Metodo acelerar ()
       Se chaveNaMao entao
