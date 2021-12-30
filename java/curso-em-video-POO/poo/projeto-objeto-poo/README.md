@@ -18,7 +18,7 @@ Veja como ficou nas fotos abaixo, ou se preferir ir até o projeto e seu codigo 
 
 <div align= "center" >
 
-[⬅️ Retornar a  Programação Orientada a Objetos📃](https://github.com/Ruths2/Java)
+[⬅️ Retornar a  Programação Orientada a Objetos📃](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO)
 
 [⬅️ Retornar a página inicial 📃](https://github.com/Ruths2/Java)
 </div>
