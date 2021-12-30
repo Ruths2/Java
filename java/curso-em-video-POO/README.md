@@ -41,20 +41,24 @@ Classe Veículo
       Se chaveNaMao entao
          Escreva("Acelerando")
       Senao
-         Escreva("Não está com as chaves")
+         Escreva("ERRO...cade as chaves?")
       FimSe
    FimMetodo
 
-   Metodo ligar ()
+   Metodo ligado ()
       chaveNaMao = verdadeiro
 
    FimMetodo
 FimClasse
 
 ```
+Eu criei um programinha reescrevendo o código a cima em Java.🤗
+
+[Programinha 💫](https://github.com/Ruths2/Java/curso-em-video-POO/poo/projeto-objeto-poo)
+
+---
 
 <div align= "center" >
 
 [⬅️ Retornar a página inicial 📃](https://github.com/Ruths2/Java)
 </div>
-
