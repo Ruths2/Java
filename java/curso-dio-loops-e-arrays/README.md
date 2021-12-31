@@ -35,8 +35,8 @@ Bora estudar? 🤗
 (Na imagem: array unidimensional = vetor e array multidimensional = matriz.)
 #
 
-### 👩🏻‍🏫 Prof: Camila
-### 📚 By: Digital Innovation one.
+#### Autor: Ruth✨ 
+#### 📚 By: Digital Innovation one/ 👩🏻‍🏫 Prof: Camila Cavalcante
 
 <div align= "center" >
 
