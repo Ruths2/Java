@@ -66,8 +66,12 @@ Classe Veículo
 
    Metodo ligado ()
       chaveNaMao = verdadeiro
-
    FimMetodo
+   
+   Metodo desligado()
+      chaveNaMao = falso
+   FimMetodo
+   
 FimClasse
 
 ```
@@ -94,7 +98,7 @@ Na UML (UML ? Para saber mais clique aqui ⬆️), os modificadores de acesso s�
 
 🔐 O **_protected_**, poderá ser utizado somente pela classe atual e pelas suas sub-classes.
 
-Utilizando o programinha [Veiculo](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo), vamos colocar os modificadores de acesso:
+Utilizando o  [Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo), vamos colocar os modificadores de acesso:
 
 <div align= "center" >
 
@@ -134,12 +138,19 @@ Classe Veículo
 
    Metodo ligado ()
       chaveNaMao = verdadeiro
-
    FimMetodo
+   
+   Metodo desligado ()
+      chaveNaMao = falso
+   FimMetodo
+   
 FimClasse
 
 
 ```
+Programinha atualizado com os modificadores de acesso. ⬇️
+
+[Programinha 💫 atualizado](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo)
 
 ---
 <div align= "center" >
