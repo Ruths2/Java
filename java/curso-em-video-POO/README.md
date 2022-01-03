@@ -23,8 +23,27 @@ Todo objeto vem a partir de uma classe (molde do objeto), e todo objeto precisa 
 * Atributos (caracteristicas).
 * Métodos (comportamentos).
 * Status (estado atual).
+ 
+Abaixo, exemplos de uma classe, objeto e seus conceitos citados acima:
+
+<div align= "center" >
+
+ | Veiculo | 
+ |--------------|
+ |==========|
+ | marca |
+ | tipo |
+ | cor |
+ | modelo |
+ | quantidade |
+ | chaveNaMao |
+ |==========|
+ | status () |
+ | acelerar () |
+ | ligado () |
+ | desligado () |
+ </div>
   
-Abaixo um exemplo de uma classe, objeto e seus conceitos citados acima:
 
 ```
 
@@ -52,12 +71,77 @@ Classe Veículo
 FimClasse
 
 ```
-Eu criei um programinha reescrevendo o código a cima em Java.🤗
+Programinha reescrevendo o código a cima em Java. ⬇️
 
 [Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo)
 
 ---
 
+### 🔸 O que é modificador de visibilidade❓ 🤔
+
+---
+
+O modicador de visibilidade ou modificador de acesso, define como será a acessibilidade daquele atributo ou método. Ele está presente nas linguagens de auto nível, como por exemplo: Java, PHP, Python, C#, C++ e etc. 
+
+Na UML (UML ? Para saber mais clique aqui ⬆️), os modificadores de acesso são indicados pelos símbolos: +(mais),  - (menos) e # (cerquinha). 
+- O simbolo de + representa a visibilidade **_publica_** (**_public_**).
+- O simbolo de - representa a visibilidade **_privada_** (**_private_**).
+- O simbolo de # representa a visibilidade **_protegida_** (**_protected_**).
+
+🔓 O atributo ou o método **_public_**, poderá ser utizado por todas as classes.
+
+🔒 O **_private_**, poderá ser utizado somente pela classe atual.
+
+🔐 O **_protected_**, poderá ser utizado somente pela classe atual e pelas suas sub-classes.
+
+Utilizando o programinha [Veiculo](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo), vamos colocar os modificadores de acesso:
+
+<div align= "center" >
+
+ | Veiculo | 
+ |--------------|
+ |==========|
+ | + marca |
+ | + tipo |
+ | cor |
+ | - modelo |
+ | # quantidade |
+ | # chaveNaMao |
+ |==========|
+ | + status () |
+ | + acelerar () |
+ | - ligado () |
+ | - desligado () |
+ </div>
+
+```
+Classe Veículo
+
+   marca: Caractere
+   tipo: Caractere
+   cor: Caractere
+   modelo: Real
+   quantidade: Inteiro
+   chaveNaMao: Logico
+
+   Metodo acelerar ()
+      Se chaveNaMao entao
+         Escreva("Acelerando")
+      Senao
+         Escreva("ERRO...cade as chaves?")
+      FimSe
+   FimMetodo
+
+   Metodo ligado ()
+      chaveNaMao = verdadeiro
+
+   FimMetodo
+FimClasse
+
+
+```
+
+---
 <div align= "center" >
 
 [⬅️ Retornar a página inicial 📃](https://github.com/Ruths2/Java)
