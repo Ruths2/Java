@@ -156,7 +156,7 @@ FimClasse
 ```
 Programinha atualizado com os modificadores de acesso. ⬇️
 
-[Programinha 💫 atualizado](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-03)
+[Programinha 💫 atualizado](https://github.com/Ruths2/Java/blob/main/java/curso-em-video-POO/poo/projeto-aula-03/README.md)
 
 ---
 <div align= "center" >
