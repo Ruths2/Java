@@ -2,7 +2,7 @@
 
 ## Programinha 💫
 
-Veja como ficou nas fotos abaixo, ou se preferir ir até o projeto e seu codigo clique aqui ➡️ [Projeto](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo/Aula2/app)
+Veja como ficou nas fotos abaixo, ou se preferir ir para o código clique aqui ➡️ [Código](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-02/aula02/app/src/main/java/com/ruth/aula02)
 
 
 `Código`
