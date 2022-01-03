@@ -24,7 +24,7 @@ Todo objeto vem a partir de uma classe (molde do objeto), e todo objeto precisa 
 * Métodos (comportamentos).
 * Status (estado atual).
  
-Abaixo, exemplos de uma classe, objeto e seus conceitos citados acima:
+Exemplo de uma classe e seus conceitos citados acima:
 
 <div align= "center" >
 
@@ -55,7 +55,10 @@ Classe Veículo
    modelo: Real
    quantidade: Inteiro
    chaveNaMao: Logico
-
+   
+   Metodo status ()
+   FimMetodo
+   
    Metodo acelerar ()
       Se chaveNaMao entao
          Escreva("Acelerando")
@@ -75,9 +78,9 @@ Classe Veículo
 FimClasse
 
 ```
-Programinha reescrevendo o código a cima em Java. ⬇️
+Programinha reescrevendo o que foi feito acima em Java. ⬇️
 
-[Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo)
+[Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-02)
 
 ---
 
@@ -98,7 +101,7 @@ Na UML (UML ? Para saber mais clique aqui ⬆️), os modificadores de acesso s�
 
 🔐 O **_protected_**, poderá ser utizado somente pela classe atual e pelas suas sub-classes.
 
-Utilizando o  [Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo), vamos colocar os modificadores de acesso:
+Utilizando o  [Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-02), vamos colocar aleatoriamente os modificadores de acesso:
 
 <div align= "center" >
 
@@ -107,7 +110,7 @@ Utilizando o  [Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/c
  |==========|
  | + marca |
  | + tipo |
- | cor |
+ | + cor |
  | - modelo |
  | # quantidade |
  | # chaveNaMao |
@@ -121,14 +124,17 @@ Utilizando o  [Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/c
 ```
 Classe Veículo
 
-   marca: Caractere
-   tipo: Caractere
-   cor: Caractere
-   modelo: Real
-   quantidade: Inteiro
-   chaveNaMao: Logico
+   publico marca: Caractere
+   publico tipo: Caractere
+   publico cor: Caractere
+   privado modelo: Real
+   protegido quantidade: Inteiro
+   protegido chaveNaMao: Logico
 
-   Metodo acelerar ()
+   publico Metodo status ()
+   FimMetodo
+   
+   publico Metodo acelerar ()
       Se chaveNaMao entao
          Escreva("Acelerando")
       Senao
@@ -136,11 +142,11 @@ Classe Veículo
       FimSe
    FimMetodo
 
-   Metodo ligado ()
+   privado Metodo ligado ()
       chaveNaMao = verdadeiro
    FimMetodo
    
-   Metodo desligado ()
+   privado Metodo desligado ()
       chaveNaMao = falso
    FimMetodo
    
@@ -150,7 +156,7 @@ FimClasse
 ```
 Programinha atualizado com os modificadores de acesso. ⬇️
 
-[Programinha 💫 atualizado](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-objeto-poo)
+[Programinha 💫 atualizado](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-03)
 
 ---
 <div align= "center" >
