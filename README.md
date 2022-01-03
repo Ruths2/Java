@@ -13,5 +13,7 @@
 
 [ `🟣 POO (Programação Orientada a Objeto) 🌼` ](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO)
 
+[ `🟢 SCRUM (Projetos ágeis) 🏵️` ](https://github.com/Ruths2/Java/tree/main/java/projetos-ageis-com-scrum)
+
 
 ###### 🚧 ... em construção ... 🚧
