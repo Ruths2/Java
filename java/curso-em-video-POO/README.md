@@ -111,9 +111,9 @@ Utilizando o  [Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/c
  | + marca |
  | + tipo |
  | + cor |
- | - modelo |
+ | # modelo |
  | # quantidade |
- | # chaveNaMao |
+ | - chaveNaMao |
  |==========|
  | + status () |
  | + acelerar () |
@@ -127,9 +127,9 @@ Classe Veículo
    publico marca: Caractere
    publico tipo: Caractere
    publico cor: Caractere
-   privado modelo: Real
+   protegido modelo: Real
    protegido quantidade: Inteiro
-   protegido chaveNaMao: Logico
+   privado chaveNaMao: Logico
 
    publico Metodo status ()
    FimMetodo
