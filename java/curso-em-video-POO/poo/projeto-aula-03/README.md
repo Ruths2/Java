@@ -2,19 +2,19 @@
 
 ## Programinha 💫 atualizado
 
-##### (Código do programinha atualizado [Código 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-02/aula02/app/src/main/java/com/ruth/aula03) )
+##### ( Código do programinha atualizado [Código 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-03/Aula03) )
 
 Veja como o código ficou com os modificadores de acesso: 
 
 <a href="https://ibb.co/j45pwtQ">
-   <img src="https://i.ibb.co/C0tr9LY/Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-17-41-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-17-41-GMT-03-00-2022" border="0" /></a>
+   <img height= "220" src="https://i.ibb.co/C0tr9LY/Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-17-41-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-17-41-GMT-03-00-2022" border="0" /></a>
   
 ---
   
 Vamos rodar o código:
   
 <a href="https://ibb.co/Xjvn279">
-   <img src="https://i.ibb.co/tQW0mqS/Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-40-56-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-40-56-GMT-03-00-2022" border="0" /></a>
+   <img height= "220" src="https://i.ibb.co/tQW0mqS/Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-40-56-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-40-56-GMT-03-00-2022" border="0" /></a>
    
 ---
 
@@ -23,7 +23,7 @@ Ué....o que aconteceu?
 Vamos verificar no diagnostico (Diagnostic) do app....
 
 <a href="https://ibb.co/89Wtw6x">
-   <img src="https://i.ibb.co/jDcsYgw/Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-54-46-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-54-46-GMT-03-00-2022" border="0" /></a>
+   <img height= "220" src="https://i.ibb.co/jDcsYgw/Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-54-46-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Mon-Jan-03-21-54-46-GMT-03-00-2022" border="0" /></a>
    
 ---
 
@@ -32,14 +32,14 @@ O erro na linha 14 e 28 nos diz que o método desligado () e ligado () não é v
 Colocando os dois metódos como public o que aconteceria?....pois a variável chaveNaMao também é private...... 
 
 <a href="https://ibb.co/3Bthc3v">
-   <img src="https://i.ibb.co/PwBCgLM/Logo-Maker-com-ist-logomaker-Tue-Jan-04-00-36-27-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Tue-Jan-04-00-36-27-GMT-03-00-2022" border="0" /></a>
+   <img height= "220" src="https://i.ibb.co/PwBCgLM/Logo-Maker-com-ist-logomaker-Tue-Jan-04-00-36-27-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Tue-Jan-04-00-36-27-GMT-03-00-2022" border="0" /></a>
    
 ---
 
 Vamos ver:
 
 <a href="https://ibb.co/TRf7YYx">
-   <img src="https://i.ibb.co/6bMTrr7/Logo-Maker-com-ist-logomaker-Tue-Jan-04-00-45-20-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Tue-Jan-04-00-45-20-GMT-03-00-2022" border="0" /></a>
+   <img height= "220" src="https://i.ibb.co/6bMTrr7/Logo-Maker-com-ist-logomaker-Tue-Jan-04-00-45-20-GMT-03-00-2022.png" alt="Logo-Maker-com-ist-logomaker-Tue-Jan-04-00-45-20-GMT-03-00-2022" border="0" /></a>
    
 ---
 
