@@ -2,7 +2,7 @@
 
 ## Programinha 💫 atualizado
 
-##### ( Código do programinha atualizado [Código 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-03/Aula03) )
+##### ( Código do programinha atualizado [Código 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-03/Aula03/app/src/main/java/br/com/ruth/aula03) )
 
 Veja como o código ficou com os modificadores de acesso: 
 
