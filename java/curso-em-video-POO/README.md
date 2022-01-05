@@ -6,13 +6,16 @@
 ## 🔹 Progamação Orientada a Objetos 🔹
 </div>
 
+<span id='indice'>
+
 Índice 🔖:
+</span>
 
 <a href='#orientada'>🔸O que é Programação Orientada a Objetos.</a>
 
 <a href='#modificadores'>🔸O que é Modificador de Visibilidade.</a>
 
-<a href=' '>🔸Getters, Setters e Construtores.</a>
+<a href='#getters'>🔸Getters, Setters e Construtores.</a>
 
 <a href=' '>🔸Pilares da POO: Encapsulamento.</a>
 
@@ -22,11 +25,10 @@
 
 <a href=' '>🔸Projeto aplicando POO.</a>
 
-<span id='orientada'></span>
-<p>
+<span id='orientada'>
 
 ### 🔶 O que é programação orientada a objetos ❓ 🤔
-<p>
+</span>
 
 ---
 
@@ -103,12 +105,17 @@ Programinha reescrevendo o que foi feito acima em Java. ⬇️
 [Programinha 💫](https://github.com/Ruths2/Java/tree/main/java/curso-em-video-POO/poo/projeto-aula-02)
 
 ---
+<div align="center">
 
-<span id='modificadores'></span>
-<p>
+<a href='#indice'>Índice 🔖</a>
+</div>
+
+---
+
+<span id='modificadores'>
 
 ### 🔶 O que é modificador de visibilidade❓ 🤔
-</p>
+</span>
 
 ---
 
@@ -184,9 +191,17 @@ Programinha atualizado com os modificadores de acesso. ⬇️
 
 ---
 
-<span id='getters'></span>
+<div align="center">
+
+<a href='#indice'>Índice 🔖</a>
+</div>
+
+---
+
+<span id='getters'>
 
 ### 🔶 Getters, Setters e Construtores 🛠️.
+</span>
 
 Os métodos especias servem para dar um acesso controlado aos atributos de um objeto. São eles: o método acessor ˋGetterˋ (getter significa: pegar) e o método modificador ˋSetterˋ (setter significa: colocar). Sem os métodos especiais qualquer um poderia pegar os atributos de um objeto e manipula-los.
 
@@ -227,7 +242,16 @@ Classe Loja
 
 ---
 
+<div align="center">
+
+<a href='#indice'>Índice 🔖</a>
+</div>
+
+---
+
 <div align= "center" >
 
 [⬅️ Retornar a página inicial 📃](https://github.com/Ruths2/Java)
 </div>
+
+
