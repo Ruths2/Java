@@ -183,6 +183,50 @@ Programinha atualizado com os modificadores de acesso. ⬇️
 [Programinha 💫 atualizado](https://github.com/Ruths2/Java/blob/main/java/curso-em-video-POO/poo/projeto-aula-03/README.md)
 
 ---
+
+<span id='getters'></span>
+
+### 🔶 Getters, Setters e Construtores 🛠️.
+
+Os métodos especias servem para dar um acesso controlado aos atributos de um objeto. São eles: o método acessor ˋGetterˋ (getter significa: pegar) e o método modificador ˋSetterˋ (setter significa: colocar). Sem os métodos especiais qualquer um poderia pegar os atributos de um objeto e manipula-los.
+
+(sobre construtores aqui)
+
+---
+
+#### 🔸Entendendo melhor o método acessor Getter 🔸
+
+O método ˋGetterˋ tem a função de pegar o atributo desejado, e entrega-lo à quem deseja.
+
+Ex:
+Você vai até uma loja de calçados e começa a olhar as vitrines. Quando você encontra um sapato que deseja, você pede ao vendedor para pega-lo, assim você poderá experimentar o sapato e etc. Nesse caso o vendedor seria o método Getter, pois ele pega o que você deseja, e lhe entrega. 
+
+Se não existisse o vendedor, o que aconteceria 🤔?
+
+Sim.....a loja ficaria uma bagunça. Não haveria organização nem segurança, pois imagine varias pessoas pegando varios calçados e experimentando, poderiam estraga-los, sem contar com a possibilidade de duas, ou mais pessoas pegar ao mesmo tempo o mesmo calçado.
+  
+Contudo, o método acessor ˋGetterˋ, organiza essa ação de pegar e retornar o atributo desejado.
+
+---
+
+#### 🔸Entendendo melhor o método modificador Setter 🔸
+
+
+
+---
+No código ficaria assim:
+
+Classe Loja
+   
+   sandálias
+   public chinelos
+   sapatos
+   public roupas
+   
+   public static void main
+
+---
+
 <div align= "center" >
 
 [⬅️ Retornar a página inicial 📃](https://github.com/Ruths2/Java)
