@@ -8,7 +8,7 @@
 
 <span id='indice'>
 
-Índice 🔖:
+Índice 🔖: 
 </span>
 
 <a href='#orientada'>🔸O que é Programação Orientada a Objetos.</a>
@@ -203,7 +203,13 @@ Programinha atualizado com os modificadores de acesso. ⬇️
 ### 🔶 Getters, Setters e Construtores 🛠️.
 </span>
 
-Os métodos especias servem para dar um acesso controlado aos atributos de um objeto. São eles: o método acessor ˋGetterˋ (getter significa: pegar) e o método modificador ˋSetterˋ (setter significa: colocar). Sem os métodos especiais qualquer um poderia pegar os atributos de um objeto e manipula-los.
+Os métodos especias servem para dar um acesso controlado aos atributos de um objeto. Os métodos que veremos aqui: 
+- O método acessor ˋGetterˋ (getter significa: pegar).
+- O método modificador ˋSetterˋ (setter significa: colocar). 
+
+Sem os métodos especiais qualquer um poderia pegar os atributos de um objeto e manipula-los.
+
+Ah........não esquecendo. Os métodos especiais também tem os seus Modificadores de Visibilidade 😁.
 
 (sobre construtores aqui)
 
@@ -214,11 +220,14 @@ Os métodos especias servem para dar um acesso controlado aos atributos de um ob
 O método ˋGetterˋ tem a função de pegar o atributo desejado, e entrega-lo à quem deseja.
 
 Ex:
-Você vai até uma loja de calçados e começa a olhar as vitrines. Quando você encontra um sapato que deseja, você pede ao vendedor para pega-lo, assim você poderá experimentar o sapato e etc. Nesse caso o vendedor seria o método Getter, pois ele pega o que você deseja, e lhe entrega. 
 
-Se não existisse o vendedor, o que aconteceria 🤔?
+Você vai até o seu banco e pergunta ao caixa quanto tem na sua conta (é claro que na vida real o caixa eletrônico que verifica a nossa conta mas, é somente um exemplo para uma melhor compreensão), e o caixa informa que tem R$500.00 reais. Você não tem acesso direto ao sistema do banco, porém o caixa tem e ele informará o valor que tem em sua conta. Esse intermediário, "o caixa", é o ˋGetterˋ na Programação Orientada a Objetos, e ele acessa os atributos que desejamos.
 
-Sim.....a loja ficaria uma bagunça. Não haveria organização nem segurança, pois imagine varias pessoas pegando varios calçados e experimentando, poderiam estraga-los, sem contar com a possibilidade de duas, ou mais pessoas pegar ao mesmo tempo o mesmo calçado.
+Se não existisse o caixa e todos tivessem acesso ao sistema do banco, o que aconteceria 🤔?
+
+O banco seria uma bagunça!
+
+Não haveria organização nem segurança, pois imagine varias pessoas acessando qualquer conta, de qualquer pessoa.....não seria muito legal, né?
   
 Contudo, o método acessor ˋGetterˋ, organiza essa ação de pegar e retornar o atributo desejado.
 
@@ -226,20 +235,132 @@ Contudo, o método acessor ˋGetterˋ, organiza essa ação de pegar e retornar 
 
 #### 🔸Entendendo melhor o método modificador Setter 🔸
 
+O método ˋSetterˋ é quase igual ao método ˋGetterˋ porém, com a funcionalidade de modificar o atributo e ter que informar um parâmetro (os parâmetros ficam dentro das chaves () ).
 
+Ex:
+
+Ao invés de consultar sua conta, você deseja colocar mais R$200.00 reais no valor que já existe. Então você entregará o valor (que seria o parâmetro) para o caixa, e ele adicionará na sua conta, que ficará no total de R$700.00 reias. Essa pessoa, "o caixa", é o método ˋSetterˋ, conseguindo modificar o atributo de uma maneira também, organizada e segura.
 
 ---
-No código ficaria assim:
 
-Classe Loja
-   
-   sandálias
-   public chinelos
-   sapatos
-   public roupas
-   
-   public static void main
+#### 🔸Entendendo melhor o método Construtor 🔸
 
+---
+
+Vamos acrescentar os métodos especias ao nosso programinha? 😁
+
+<div align= "center" >
+
+ | Veiculo | 
+ |--------------|
+ |==========|
+ | + marca |
+ | + tipo |
+ | + cor |
+ | # modelo |
+ | # quantidade |
+ | - chaveNaMao |
+ |==========|
+ | + getMarca () |
+ | + setMarca (ma) |
+ | + getTipo () |
+ | + setTipo (t) |
+ | + getCor () |
+ | + setCor (c) |
+ | + getModelo () |
+ | + setModelo (mo) |
+ | + getQuantidade () |
+ | + setQuantidade (q) |
+ | + getChaveNaMao () |
+ | + setChaveNaMao (cnm) |
+ |==========|
+ | + status () |
+ | + acelerar () |
+ | - ligado () |
+ | - desligado () |
+ </div>
+
+```
+Classe Veículo
+
+   publico marca: Caractere
+   publico tipo: Caractere
+   publico cor: Caractere
+   protegido modelo: Real
+   protegido quantidade: Inteiro
+   privado chaveNaMao: Logico
+   
+   public Metodo getMarca ()
+      returne marca
+   FimMetodo
+   
+   public Metodo setMarca (ma: Caractere)
+      marca= ma
+   FimMetodo
+   
+   public Metodo getTipo ()
+      retorne tipo
+   FimMetodo
+   
+   public Metodo setTipo (t: Caractere)
+      tipo= t
+   Fim Metodo
+   
+   public Metodo getCor ()
+      retorne cor
+   FimMetodo
+   
+   public Metodo setCor (c: Caractere)
+      cor= c
+   FimMetodo
+   
+   public Metodo getModelo () 
+      retorne modelo
+   FimMetodo
+   
+   public Metodo setModelo (mo: Real)
+      modelo= mo
+   FimMetodo
+   
+   public Metodo getQuantidade ()
+      retorne quantidade
+   FimMetodo
+   
+   public Metodo setQuantidade (q: Inteiro)
+      quantidade= q
+   FimMetodo
+   
+   public Metodo getChaveNaMao ()
+      retorne chaveNaMao
+   FimMetodo
+   
+   public Metodo setChaveNaMao (cnm: Logico)
+      chaveNaMao= cnm 
+   FimMetodo
+
+   publico Metodo status ()
+   FimMetodo
+   
+   publico Metodo acelerar ()
+      Se chaveNaMao entao
+         Escreva("Acelerando")
+      Senao
+         Escreva("ERRO...cade as chaves?")
+      FimSe
+   FimMetodo
+
+   privado Metodo ligado ()
+      chaveNaMao = verdadeiro
+   FimMetodo
+   
+   privado Metodo desligado ()
+      chaveNaMao = falso
+   FimMetodo
+   
+FimClasse
+
+
+```
 ---
 
 <div align="center">
