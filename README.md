@@ -15,5 +15,7 @@
 
 [ `🟢 SCRUM (Projetos ágeis) 🏵️` ](https://github.com/Ruths2/Java/tree/main/java/projetos-ageis-com-scrum)
 
+[ `🟤 Collections 🌻` ](https://github.com/Ruths2/Java/tree/main/java/collections)
+
 
 ###### 🚧 ... em construção ... 🚧
